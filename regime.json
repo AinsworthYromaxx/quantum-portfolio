@@ -1,0 +1,8 @@
+{
+  "yield_curve_slope": 0.58,
+  "yield_curve_inverted": false,
+  "inflation_regime": "hot",
+  "rate_regime": "stable",
+  "labor_trend": "stable",
+  "credit_conditions": "normal"
+}
